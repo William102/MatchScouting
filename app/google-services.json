@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053196042933",
+    "project_id": "opal-b5665",
+    "storage_bucket": "opal-b5665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053196042933:android:a361f18e0f1066a95a74fc",
+        "android_client_info": {
+          "package_name": "com.example.opal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053196042933-akf44rb18ipq0jp5vdgm2es51mk78a01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3EY9wJPJWer-4RyrSW7_iGEJ_-DNCjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053196042933-akf44rb18ipq0jp5vdgm2es51mk78a01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
